@@ -18,6 +18,7 @@ Explain a little bit what's where so people can find their way around. For examp
 
 There are the following folders in the structure:
 
+1) [`resources`](./resources): Random nice resources, e.g. [`useful links`](./resources/links.md)
 1) [`src`](./src): Folder for all source files specific to this project
 1) [`media`](./media): Folder containing media files (icons, video)
 1) ...
