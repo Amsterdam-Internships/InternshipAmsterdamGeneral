@@ -1,0 +1,7 @@
+# env / packaging
+env/
+wheels/
+
+# jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
