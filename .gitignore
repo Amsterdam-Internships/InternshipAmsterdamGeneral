@@ -2,6 +2,13 @@
 env/
 wheels/
 
+# bytecode stuffs
+__pycache__/
+*.py[cod]
+
 # jupyter
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# other
+.idea/*
