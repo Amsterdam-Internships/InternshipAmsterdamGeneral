@@ -29,6 +29,12 @@ and [`NL`](https://issuu.com/vmadmin/docs/special_ai_technology_for_people_20_21
 * [`RESTful API Amsterdam`](https://api.data.amsterdam.nl/api/)
 * [`Maps Amsterdam`](https://maps.amsterdam.nl/) ([`Bicycle symbols added by Chris`](https://maps.amsterdam.nl/fietsnetwerk/))
 
+## Cool examples
+* [`Nice (and fun!) example by Jurian Baas`](https://nbviewer.jupyter.org/github/jurb/wormhotels/blob/master/Having%20a%20look%20at%20the%20worm%20hotels%20in%20Amsterdam.ipynb)
+  of using [`open city data`](https://data.amsterdam.nl/),
+  calculating distances between addresses using [`OSRM`](http://project-osrm.org/)
+  and visualizing geospatial stuffs with [`Folium`](https://github.com/python-visualization/folium)
+
 ## Other books, tools, etc
 
 ### Interpretability
