@@ -1,5 +1,5 @@
 ### Example of a test and a corresponding workflow
-The tests will be run every time you push thanks to the [`test workflow`](.github/workflows/test_workflow.yml)
+The tests will be run every time you push thanks to the [`test workflow`](../.github/workflows/test_workflow.yml)
 
 You can easily see whether your tests (or any other workflows) passed
 ![](../media/examples/workflow_passed_example.png)
