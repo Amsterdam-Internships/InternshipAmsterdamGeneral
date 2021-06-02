@@ -14,15 +14,32 @@ If applicable, you can also show an example of the final output.
 
 ## Project Folder Structure
 
-Explain a little bit what's where so people can find their way around. For exampole:
+Explain briefly what's where so people can find their way around. For example:
 
 There are the following folders in the structure:
 
 1) [`resources`](./resources): Random nice resources, e.g. [`useful links`](./resources/README.md)
 1) [`src`](./src): Folder for all source files specific to this project
+1) [`scripts`](./scripts): Folder with example scripts for performing different tasks (could serve as usage documentation)
 1) [`tests`](./tests) Test example
 1) [`media`](./media): Folder containing media files (icons, video)
 1) ...
+
+OR
+
+Or use something like `tree` to include the overall structure with preferred level of detail (`-L 2` or `-d` or `-a`...)
+```buildoutcfg
+├── media --> you can still add comments and descriptions in this tree
+│   └── examples
+├── resources --> a lot of useful links here
+├── scripts
+├── src --
+└── tests
+```
+
+
+
+If you are lacking ideas on how to structure your code at the first place, take a look at [`CookieCutter`](https://drivendata.github.io/cookiecutter-data-science/)
 
 ---
 
@@ -39,7 +56,12 @@ A person should be able to clone this repo, follow your instructions blindly, an
     git clone https://github.com/Amsterdam-Internships/InternshipAmsterdamGeneral
     ```
 
-2) Install all dependencies:
+1) If you are using submodules don't forget to include `--recurse-submodules` to the step above or mention that people can still do it afterwards:
+   ```bash
+   git submodule update --init --recursive
+   ```
+
+1) Install all dependencies:
     ```bash
     pip install -r requirements.txt
     ```
@@ -57,12 +79,29 @@ To train...
 $ python train.py --some-importang-argument
 ```
 
+If there are too many command line arguments, you can add a nice table with explanation (thanks, [Diana Epureano](https://www.linkedin.com/in/diana-epureanu-235104153/)!)
+
+|Argument | Type or Action | Description | Default |
+|---|:---:|:---:|:---:|
+|`--batch_size`| int| `Batch size.`|  32|
+|`--device`| str| `Training device, cpu or cuda:0.`| `cpu`|
+|`--early-stopping`|  `store_true`| `Early stopping for training of sparse transformer.`| True|
+|`--epochs`| int| `Number of epochs.`| 21|
+|`--input_size`|  int| `Input size for model, i.e. the concatenation length of te, se and target.`| 99|
+|`--loss`|  str|  `Type of loss to be used during training. Options: RMSE, MAE.`|`RMSE`|
+|`--lr`|  float| `Learning rate.`| 1e-3|
+|`--train_ratio`|  float| `Percentage of the training set.`| 0.7|
+|...|...|...|...|
+
+
+Alternatively, as a way of documenting the intended usage, you could add a `scripts` folder with a number of scripts for setting up the environment, performing training in different modes or different tasks, evaluation, etc (thanks, [Tom Lotze](https://www.linkedin.com/in/tom-lotze/)!)
+
 ---
 
 
 ## How it works
 
-Explain roughly how the code works, what the main components are, how certain crucial steps are performed...
+You can explain roughly how the code works, what the main components are, how certain crucial steps are performed...
 
 ---
 ## Acknowledgements
