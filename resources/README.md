@@ -1,23 +1,35 @@
-# Random Nice Links
+## Table of Contents
 
+<!--ts-->
+   * [More about AI &amp; Cities](#more-about-ai--cities)
+   * [More about the work of the AI Team &amp; Past interns](#more-about-the-work-of-the-ai-team--past-interns)
+   * [Code](#code)
+   * [Data &amp; APIs &amp; Maps](#data--apis--maps)
+   * [Cool examples](#cool-examples)
+   * [Other books, tools, etc](#other-books-tools-etc)
+<!--te-->
 
 ## More about AI & Cities
 
 #### Vision, strategy, principles...
 
 * [`The tada principles`](https://tada.city/en/home-en/)
+* [`Agenda AI`](https://assets.amsterdam.nl/publish/pages/964754/agenda_ai_nl.pdf)
 * [`Magazine Amsterdamse intelligentie`](https://www.amsterdam.nl/wonen-leefomgeving/innovatie/de-digitale-stad/amsterdamse-intelligentie/)
 * [`AI Magazine VNG`](https://ai-magazine.vngrealisatie.nl/)
 * [`Slides werkgroep AI voor Publieke Diensten (Amsterdamse AI Coalitie en Agenda AI)`](https://docs.google.com/presentation/d/12Ox7m7FCvrf9egQThrPFvTbpwRE6VB-fCIKIy2RlTN4/edit?usp=sharing)
-* [`Agenda AI`](https://amsterdam.raadsinformatie.nl/document/8828760/1/1_Agenda_Amsterdamse_Intelligentie)
 * New Scientist over AI Tech for People [`ENG`](https://issuu.com/vmadmin/docs/special_ai_technology_for_people_2020_engels)
 and [`NL`](https://issuu.com/vmadmin/docs/special_ai_technology_for_people_20_21f90b6c80166b)
+* [`openresearch.amsterdam`](https://openresearch.amsterdam/)  - digital platform for research, knowledge, and innovation about Amsterdam and the metropolitan area
 
-#### Existing projects
+#### Existing projects / initiatives
 * [`Algoritme Register`](https://algoritmeregister.amsterdam.nl/)
 * [`Signalen (Meldingen)`](http://www.signalen.org) ([`github`](https://github.com/Amsterdam/signals))
 * [`Object Detectie Kit`](http://www.odk.ai)
 
+#### Meetups
+* [`Amsterdam Intelligence`](https://www.meetup.com/amsterdam-intelligence)
+* [`DataLab`](https://www.meetup.com/DataLab-Amsterdam/)
 
 ## More about the work of the AI Team & Past interns
 ### In the media
@@ -28,16 +40,17 @@ and [`NL`](https://issuu.com/vmadmin/docs/special_ai_technology_for_people_20_21
 * An article about  [`using algorithms to prevent housing fraud`](https://www.volkskrant.nl/nieuws-achtergrond/amsterdam-komt-met-algoritme-tegen-illegale-vakantieadressen~bca70b1f/) in Amsterdam - an issue which inspired multiple theses projects in the past.
 
 ### Presentations
-* [`Intern Presentations 2020: AI & DS on the streets of Amsterdam`](https://docs.google.com/presentation/d/1Kas4UOZeM4EsC0dMb0BTeMvn3l_Hs1dccypXH9gyJM4/edit?usp=sharing)
-* [`Intern Presentations 2020: AI & DS for the people of Amsterdam`](https://docs.google.com/presentation/d/1LNX6Jk5MNHHiPmIhf6bxGtCdny4QytC1xDcCFL-Ubb8/edit?usp=sharing)
-* [`Slides: Amsterdam Intelligence Meetup 2020-10-15`](https://drive.google.com/file/d/1AR2cavqIYccMGvHHQU6uAhyHp_m-xZ1c/view?usp=sharing)
-* [`Video: ADS Webinar 2021-05-26`](https://www.youtube.com/watch?v=1-EEhND1_1U)
+* Intern Presentations 2020: [`AI & DS on the streets of Amsterdam`](https://docs.google.com/presentation/d/1Kas4UOZeM4EsC0dMb0BTeMvn3l_Hs1dccypXH9gyJM4/edit?usp=sharing)
+* Intern Presentations 2020: [`AI & DS for the people of Amsterdam`](https://docs.google.com/presentation/d/1LNX6Jk5MNHHiPmIhf6bxGtCdny4QytC1xDcCFL-Ubb8/edit?usp=sharing)
+* Intern Presentations 2021: [`AI & DS for the City of Amsterdam (Part 1)`](https://docs.google.com/presentation/d/1G7BG4cw9dpeaQrCj9rmQxrdNgsoUC08PB5Q9VKbLuFc/edit?usp=sharing)
+* Slides: [`Amsterdam Intelligence Meetup 2020-10-15`](https://drive.google.com/file/d/1AR2cavqIYccMGvHHQU6uAhyHp_m-xZ1c/view?usp=sharing)
+* Video: [`ADS Webinar 2021-05-26`](https://www.youtube.com/watch?v=1-EEhND1_1U)
 
 ### Related Papers
-* [`Public Theses (AI & DS)`](https://drive.google.com/drive/folders/1QsvDXOQD4DIvsqgwR5NpUBcX7bg9eT-Q?usp=sharing)
-* [`Helwegen, Rik, Christos Louizos, and Patrick Forré. "Improving Fair Predictions Using Variational Inference In Causal Models." arXiv preprint arXiv:2008.10880 (2020).`](https://arxiv.org/abs/2008.10880)
-* [`Sukel, Maarten, Stevan Rudinac, and Marcel Worring. "Multimodal classification of urban micro-events." Proceedings of the 27th ACM International Conference on Multimedia. 2019.`](https://dl.acm.org/doi/abs/10.1145/3343031.3350967)
-* [`Sukel, Maarten, Stevan Rudinac, and Marcel Worring. "Urban Object Detection Kit: A System for Collection and Analysis of Street-Level Imagery." Proceedings of the 2020 International Conference on Multimedia Retrieval. 2020.`](https://dl.acm.org/doi/abs/10.1145/3372278.3390708)
+* [`Public Theses`](https://drive.google.com/drive/folders/1QsvDXOQD4DIvsqgwR5NpUBcX7bg9eT-Q?usp=sharing) of some of our past interns (both AI & DS)
+* Helwegen, Rik, Christos Louizos, and Patrick Forré. [`"Improving Fair Predictions Using Variational Inference In Causal Models."`](https://arxiv.org/abs/2008.10880) arXiv preprint arXiv:2008.10880 (2020).
+* Sukel, Maarten, Stevan Rudinac, and Marcel Worring. [`"Multimodal classification of urban micro-events."`](https://dl.acm.org/doi/abs/10.1145/3343031.3350967)  Proceedings of the 27th ACM International Conference on Multimedia. 2019.
+* Sukel, Maarten, Stevan Rudinac, and Marcel Worring. [`"Urban Object Detection Kit: A System for Collection and Analysis of Street-Level Imagery."`](https://dl.acm.org/doi/abs/10.1145/3372278.3390708) Proceedings of the 2020 International Conference on Multimedia Retrieval. 2020.
 
 
 
@@ -48,7 +61,8 @@ and [`NL`](https://issuu.com/vmadmin/docs/special_ai_technology_for_people_20_21
 ## Data & APIs & Maps
 * [`Opendata Amsterdam`](http://data.amsterdam.nl)
 * [`RESTful API Amsterdam`](https://api.data.amsterdam.nl/api/)
-* [`Maps Amsterdam`](https://maps.amsterdam.nl/) ([`Bicycle symbols added by Chris`](https://maps.amsterdam.nl/fietsnetwerk/))
+* [`Maps Amsterdam`](https://maps.amsterdam.nl/) ([`Bicycle symbols`](https://maps.amsterdam.nl/fietsnetwerk/) added by Chris)
+* [`Government Data`](https://data.overheid.nl/en/datasets)
 
 ## Cool examples
 * [`Nice (and fun!) example by Jurian Baas`](https://nbviewer.jupyter.org/github/jurb/wormhotels/blob/master/Having%20a%20look%20at%20the%20worm%20hotels%20in%20Amsterdam.ipynb)
@@ -81,3 +95,7 @@ _(a.k.a. what's my model doing and why on earth)_
 * [`Lucidchart`](https://www.lucidchart.com/)
 * [`Piktochart`](https://piktochart.com/)
 * [`sketchboard.io`](https://sketchboard.io/)
+
+
+### Latex
+* [`Mathpix`](https://mathpix.com/) - a tool for converting snipped formulas to corresponding Latex code
