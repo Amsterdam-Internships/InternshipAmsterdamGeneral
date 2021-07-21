@@ -9,6 +9,9 @@
    * [Other books, tools, etc](#other-books-tools-etc)
 <!--te-->
 
+## Amsterdam Intelligence
+* The [`Amsterdam Intelligene website`](https://www.amsterdamintelligence.com/) and our own [`Internship Stories`](https://www.amsterdamintelligence.com/projects/amsterdam-internships)
+
 ## More about AI & Cities
 
 #### Vision, strategy, principles...
@@ -22,8 +25,9 @@
 and [`NL`](https://issuu.com/vmadmin/docs/special_ai_technology_for_people_20_21f90b6c80166b)
 * [`openresearch.amsterdam`](https://openresearch.amsterdam/)  - digital platform for research, knowledge, and innovation about Amsterdam and the metropolitan area
 
+
 #### Existing projects / initiatives
-* [`Algoritme Register`](https://algoritmeregister.amsterdam.nl/)
+* [`Algorithm Register`](https://algoritmeregister.amsterdam.nl/)
 * [`Signalen (Meldingen)`](http://www.signalen.org) ([`github`](https://github.com/Amsterdam/signals))
 * [`Object Detectie Kit`](http://www.odk.ai)
 
@@ -97,5 +101,6 @@ _(a.k.a. what's my model doing and why on earth)_
 * [`sketchboard.io`](https://sketchboard.io/)
 
 
-### Latex
+### LaTeX & Writing
 * [`Mathpix`](https://mathpix.com/) - a tool for converting snipped formulas to corresponding Latex code
+* [`LaTeX Best Practices (ACM)`](https://www.acm.org/publications/taps/latex-best-practices)
