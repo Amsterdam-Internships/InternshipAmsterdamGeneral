@@ -44,6 +44,7 @@ and [`NL`](https://issuu.com/vmadmin/docs/special_ai_technology_for_people_20_21
 * An article about  [`using algorithms to prevent housing fraud`](https://www.volkskrant.nl/nieuws-achtergrond/amsterdam-komt-met-algoritme-tegen-illegale-vakantieadressen~bca70b1f/) in Amsterdam - an issue which inspired multiple theses projects in the past.
 
 ### Presentations
+* Posters 2019: [`The AI & DS Graduation Fair`](https://drive.google.com/drive/folders/1KFy2twPnKUr4b3i21a2-TDFsM3bB0Gw1)
 * Intern Presentations 2020: [`AI & DS on the streets of Amsterdam`](https://docs.google.com/presentation/d/1Kas4UOZeM4EsC0dMb0BTeMvn3l_Hs1dccypXH9gyJM4/edit?usp=sharing)
 * Intern Presentations 2020: [`AI & DS for the people of Amsterdam`](https://docs.google.com/presentation/d/1LNX6Jk5MNHHiPmIhf6bxGtCdny4QytC1xDcCFL-Ubb8/edit?usp=sharing)
 * Intern Presentations 2021: [`AI & DS for the City of Amsterdam (Part 1)`](https://docs.google.com/presentation/d/1G7BG4cw9dpeaQrCj9rmQxrdNgsoUC08PB5Q9VKbLuFc/edit?usp=sharing)
@@ -76,9 +77,14 @@ and [`NL`](https://issuu.com/vmadmin/docs/special_ai_technology_for_people_20_21
 
 ## Other books, tools, etc
 
+### Papers and Code
+* [`Papers with Code`](https://paperswithcode.com/)
+* [`Zeta Alpha`](https://search.zeta-alpha.com/)
+
 ### Interpretability & Explainability & Visualizations
 _(a.k.a. what's my model doing and why on earth)_
 * [`Interpretable ML Book`](https://christophm.github.io/interpretable-ml-book/index.html)
+* [`Weights and Biases`](https://wandb.ai/)
 * [`https://github.com/slundberg/shap`](https://github.com/slundberg/shap)
 * [`https://github.com/TeamHG-Memex/eli5`](https://github.com/TeamHG-Memex/eli5)
 * [`https://github.com/marcotcr/lime`](https://github.com/marcotcr/lime)
@@ -87,6 +93,8 @@ _(a.k.a. what's my model doing and why on earth)_
 
 ### Fairness
 * [`AIF360 Toolkit`](https://github.com/Trusted-AI/AIF360)
+* [`Workshop by Emma Beauxis-Aussalet`](https://www.youtube.com/watch?v=po4J6SCB6P0&ab_channel=PyLadiesAmsterdam)
+* [`Bias Disco Blog by Selma Muhammad`](https://www.amsterdamintelligence.com/posts/bias-discovery) with links to other resources and presentation
 
 ### Best Practices & Recipes
 * [`A Recipe for Training Neural Networks (blog by Andrej Karpathy)`](http://karpathy.github.io/2019/04/25/recipe/)
@@ -104,3 +112,4 @@ _(a.k.a. what's my model doing and why on earth)_
 ### LaTeX & Writing
 * [`Mathpix`](https://mathpix.com/) - a tool for converting snipped formulas to corresponding Latex code
 * [`LaTeX Best Practices (ACM)`](https://www.acm.org/publications/taps/latex-best-practices)
+* [`Conference Poster Templates`](https://www.overleaf.com/gallery/tagged/poster)
