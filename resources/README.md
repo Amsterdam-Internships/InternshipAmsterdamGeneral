@@ -104,6 +104,8 @@ _(a.k.a. what's my model doing and why on earth)_
 * Best Practice Repositories by Microsoft -  [`Computer Vision`](https://github.com/microsoft/computervision-recipes) and [`NLP`](https://github.com/microsoft/nlp-recipes) (with many notebooks with examples for common tasks)
 * [`Project Structure: Cookiecutter`](https://drivendata.github.io/cookiecutter-data-science/)
 * [`The foundation for Best Practices in Machine Learning`](https://www.fbpml.org/the-best-practices/the-best-practices)
+* [`PythonDataScienceHandbook`](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 
 ### Drawing tools
 * [`draw.io`](http://draw.io/)
