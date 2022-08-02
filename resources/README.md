@@ -50,7 +50,8 @@ and [`NL`](https://issuu.com/vmadmin/docs/special_ai_technology_for_people_20_21
 * Intern Presentations 2021: [`AI & DS for the City of Amsterdam (Part 1)`](https://docs.google.com/presentation/d/1G7BG4cw9dpeaQrCj9rmQxrdNgsoUC08PB5Q9VKbLuFc/edit?usp=sharing)
 * Intern Presentations 2021: [`AI & DS for the City of Amsterdam (Part 2)`](https://docs.google.com/presentation/d/1cZ4JUJdbljRNE5CbFT5bMUXZn3Q8EGskh69albqv3ww/edit?usp=sharing)
 * Intern Presentations 2022: [`Research Directions AI Group`](https://docs.google.com/presentation/d/1yFI3Dvl_hkiS4rB56VGlow4E-Y2aGhiGR8u_F23rAl0/edit?usp=sharing)
-* Posters 2022: [`The AI & DS Midterm Progress Fair (DemoDonderdag)`](https://drive.google.com/drive/folders/1BCtkUJtY7Qfraa8ME3C02-oilke-OGhP?usp=sharing)
+* Posters 2022 (Midterm): [`The AI & DS Midterm Progress Fair (DemoDonderdag)`](https://drive.google.com/drive/folders/1BCtkUJtY7Qfraa8ME3C02-oilke-OGhP?usp=sharing)
+* Intern Presentations 2022: [`AI & DS for the City of Amsterdam`](https://docs.google.com/presentation/d/1TXAbNCQx8PB_6cIwr29yuabi8uKzRBwd9wtZf12dC6s/edit#slide=id.g13abc91c675_46_61)
 * Slides: [`Amsterdam Intelligence Meetup 2020-10-15`](https://drive.google.com/file/d/1AR2cavqIYccMGvHHQU6uAhyHp_m-xZ1c/view?usp=sharing)
 * Video: [`ADS Webinar 2021-05-26`](https://www.youtube.com/watch?v=1-EEhND1_1U)
 
