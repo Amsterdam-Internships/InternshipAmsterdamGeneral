@@ -25,6 +25,10 @@
 and [`NL`](https://issuu.com/vmadmin/docs/special_ai_technology_for_people_20_21f90b6c80166b)
 * [`openresearch.amsterdam`](https://openresearch.amsterdam/)  - digital platform for research, knowledge, and innovation about Amsterdam and the metropolitan area
 
+##### From other cities 
+* [`Free souftware guidelines`](https://github.com/AjuntamentdeBarcelona/free-software-guidelines-bcn-en) and [`technology code of practice`](https://github.com/AjuntamentdeBarcelona/tech-practices-code-bcn-en) from the municipality of Barcelona
+* 
+
 
 #### Existing projects / initiatives
 * [`Algorithm Register`](https://algoritmeregister.amsterdam.nl/)
