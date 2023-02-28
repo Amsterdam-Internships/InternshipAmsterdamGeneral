@@ -1,13 +1,6 @@
-import sys
-import os
 import requests
-
-import numpy as np
 import pandas as pd
-
 import geopandas as gpd
-from geopandas import GeoDataFrame
-import shapely.geometry as sg
 
 data_crs = 'epsg:28992'
 
