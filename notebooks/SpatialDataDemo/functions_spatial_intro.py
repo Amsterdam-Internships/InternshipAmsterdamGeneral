@@ -1,8 +1,12 @@
+"""
+Functions for scraping BGT data used in Shayla Jansen's Spacial Gemeente Stuffs Intro Demo
+The code is most likely taken from https://github.com/Amsterdam-AI-Team
+"""
 import requests
 import pandas as pd
 import geopandas as gpd
 
-data_crs = 'epsg:28992'
+DATA_CRS = 'epsg:28992'
 
 BGT_use_columns = ['geometry', 'identificatie_lokaalid', 'naam']
 BGT_namedict = {'BGT': 'bgt_functie', 'BGTPLUS': 'plus_type'}
@@ -11,7 +15,7 @@ WFS_URL = 'https://map.data.amsterdam.nl/maps/bgtobjecten?'
 def get_bgt_data_for_bbox(bbox, layers):
     """Scrape BGT data in a given bounding box."""
     gdf = gpd.GeoDataFrame(columns=BGT_use_columns,
-                           geometry='geometry', crs=data_crs)
+                           geometry='geometry', crs=DATA_CRS)
     gdf.index.name = 'ogc_fid'
 
     content = []
@@ -23,11 +27,11 @@ def get_bgt_data_for_bbox(bbox, layers):
         # Parse the downloaded json response.
         if json_content is not None and len(json_content['features']) > 0:
             gdf = gpd.GeoDataFrame.from_features(
-                                json_content, crs=data_crs).set_index('ogc_fid')
+                                json_content, crs=DATA_CRS).set_index('ogc_fid')
             gdf = gdf[gdf['bgt_status'] == 'bestaand']
             try:
                 gdf['naam'] = gdf[layer_type]
-            except:
+            except Exception:
                 gdf['naam'] = layer
             content.append(gdf[BGT_use_columns])
 
@@ -66,5 +70,3 @@ def scrape_amsterdam_bgt(layer_name, bbox=None):
         return response.json()
     except ValueError:
         return None
-
-    
