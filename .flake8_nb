@@ -1,0 +1,22 @@
+[flake8_nb]
+exclude =
+    .git,
+    env/*,
+    venv/*,
+    __pycache__,
+    */.ipynb_checkpoints/*
+    *.py
+
+extend-ignore =
+    # D103 Missing docstring in public function
+    D103,
+    # D205 1 blank line required between summary line and description
+    D205,
+    # D400 First line should end with a period
+    D400,
+    # D401 First line should be in imperative mood
+    D401
+
+max-complexity = 8
+max-line-length = 99
+statistics=True
